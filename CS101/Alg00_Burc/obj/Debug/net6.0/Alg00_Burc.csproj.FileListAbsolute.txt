@@ -1,0 +1,15 @@
+C:\UCC08\Projects\CS101\Alg00_Burc\bin\Debug\net6.0\Alg00_Burc.exe
+C:\UCC08\Projects\CS101\Alg00_Burc\bin\Debug\net6.0\Alg00_Burc.deps.json
+C:\UCC08\Projects\CS101\Alg00_Burc\bin\Debug\net6.0\Alg00_Burc.runtimeconfig.json
+C:\UCC08\Projects\CS101\Alg00_Burc\bin\Debug\net6.0\Alg00_Burc.dll
+C:\UCC08\Projects\CS101\Alg00_Burc\bin\Debug\net6.0\Alg00_Burc.pdb
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\Alg00_Burc.csproj.AssemblyReference.cache
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\Alg00_Burc.GeneratedMSBuildEditorConfig.editorconfig
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\Alg00_Burc.AssemblyInfoInputs.cache
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\Alg00_Burc.AssemblyInfo.cs
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\Alg00_Burc.csproj.CoreCompileInputs.cache
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\Alg00_Burc.dll
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\refint\Alg00_Burc.dll
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\Alg00_Burc.pdb
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\Alg00_Burc.genruntimeconfig.cache
+C:\UCC08\Projects\CS101\Alg00_Burc\obj\Debug\net6.0\ref\Alg00_Burc.dll
