@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UCC08\\Projects\\CS101\\Alg00_Burc\\Alg00_Burc.csproj": {}
+    "C:\\UCC08\\Projects\\.NetCore-CS\\CS101\\Alg00_Burc\\Alg00_Burc.csproj": {}
   },
   "projects": {
-    "C:\\UCC08\\Projects\\CS101\\Alg00_Burc\\Alg00_Burc.csproj": {
+    "C:\\UCC08\\Projects\\.NetCore-CS\\CS101\\Alg00_Burc\\Alg00_Burc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UCC08\\Projects\\CS101\\Alg00_Burc\\Alg00_Burc.csproj",
+        "projectUniqueName": "C:\\UCC08\\Projects\\.NetCore-CS\\CS101\\Alg00_Burc\\Alg00_Burc.csproj",
         "projectName": "Alg00_Burc",
-        "projectPath": "C:\\UCC08\\Projects\\CS101\\Alg00_Burc\\Alg00_Burc.csproj",
+        "projectPath": "C:\\UCC08\\Projects\\.NetCore-CS\\CS101\\Alg00_Burc\\Alg00_Burc.csproj",
         "packagesPath": "C:\\Users\\Ertugrul\\.nuget\\packages\\",
-        "outputPath": "C:\\UCC08\\Projects\\CS101\\Alg00_Burc\\obj\\",
+        "outputPath": "C:\\UCC08\\Projects\\.NetCore-CS\\CS101\\Alg00_Burc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iBnTMabBpoflXsUlaw1ER6XkDQx8JL9EDP1q1gQNJCzdGtBN7Zc5e69+0XEr5vBh83FGNnlk5Ws95AFiFLMuwQ==",
+  "dgSpecHash": "jVm+NKhCGH9kYLVLKlW83fur1dxbHrpnsVrbM/Z2hD9nc03N/A4Ep27/ed7/X2T0yhCEEh0SAcEKAEZFFtg2rQ==",
   "success": true,
-  "projectFilePath": "C:\\UCC08\\Projects\\CS101\\ConsoleApp1\\02_Variable.csproj",
+  "projectFilePath": "C:\\UCC08\\Projects\\.NetCore-CS\\CS101\\ConsoleApp1\\02_Variable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

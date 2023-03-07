@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Alg01_UsAlma
-build_property.ProjectDir = C:\UCC08\Projects\CS101\Alg01_UsAlma\
+build_property.ProjectDir = C:\UCC08\Projects\.NetCore-CS\CS101\Alg01_UsAlma\
